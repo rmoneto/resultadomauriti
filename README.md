@@ -1,4 +1,4 @@
-# Base Eleitoral — Mauriti 2026
+# Eleição 2026 - 1º Turno — Mauriti 2026
 
 Sistema web estático para consulta da votação por candidato, local de votação e seção.
 
